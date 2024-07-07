@@ -4,7 +4,7 @@
 
 🌟 Passionate about coding, exploring new technologies, and contributing to open-source projects.
 
-🛠️ Skilled in Vue.js, Go, TypeScript
+🛠️ Skilled in Vue.js, TypeScript
 
 🎮 When I'm not coding, you'll find me playing games
 
