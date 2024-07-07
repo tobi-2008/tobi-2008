@@ -19,7 +19,7 @@
 
 ## 🛠️ Technology i have used
 
-![vue.js](httpsvue.js://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js)
+![vue.js](https://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js)
 ![nuxt.js](https://img.shields.io/badge/-nuxt.js-05122A?style=flat&logo=nuxt.js)
 ![git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
 ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
