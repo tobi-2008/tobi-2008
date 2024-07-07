@@ -19,15 +19,12 @@
 
 ## 🛠️ Technology i have used
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
+![](httpsvue.js://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=vue.js)
+![nuxt.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=nuxt.js)
+![git](https://img.shields.io/badge/-React-05122A?style=flat&logo=git)
+![github](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=github)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
