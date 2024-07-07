@@ -4,7 +4,7 @@
 
 🌟 Passionate about coding, exploring new technologies, and contributing to open-source projects.
 
-🛠️ Skilled in MERN stack, Go, TypeScript, C++, and blockchain development with Solidity.
+🛠️ Skilled in Vue.js, Go, TypeScript
 
 🎮 When I'm not coding, you'll find me playing games
 
@@ -19,10 +19,10 @@
 
 ## 🛠️ Technology i have used
 
-![](httpsvue.js://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=vue.js)
-![nuxt.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=nuxt.js)
-![git](https://img.shields.io/badge/-React-05122A?style=flat&logo=git)
-![github](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=github)
+![vue.js](httpsvue.js://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js)
+![nuxt.js](https://img.shields.io/badge/-nuxt.js-05122A?style=flat&logo=nuxt.js)
+![git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
+![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
