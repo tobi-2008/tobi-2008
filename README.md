@@ -24,8 +24,6 @@
 ![git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
 ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![firebase](https://img.shields.io/badge/-pinia-05122A?style=flat&logo=pinia)
-![pinia](https://img.shields.io/badge/-chart.js-05122A?style=flat&logo=chart.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
