@@ -26,8 +26,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)
 ![chart.js](https://img.shields.io/badge/-chart.js-05122A?style=flat&logo=chart.js)
-![particle](https://img.shields.io/badge/-particle.js-05122A?style=flat&logo=particle.js)
-![aos](https://img.shields.io/badge/-aos-05122A?style=flat&logo=aos)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
