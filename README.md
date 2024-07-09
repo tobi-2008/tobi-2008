@@ -23,7 +23,6 @@
 ![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
 ![vue.js](https://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js)
-![vuenative](https://img.shields.io/badge/-vuenative-05122A?style=flat&logo=vuenative)
 ![nuxt.js](https://img.shields.io/badge/-nuxt.js-05122A?style=flat&logo=nuxt.js)
 ![git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
 ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
