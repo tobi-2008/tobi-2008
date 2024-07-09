@@ -18,16 +18,16 @@
 
 
 ## 🛠️ Technology i have used
-
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
 ![vue.js](https://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js)
+![vue.jsnative](https://img.shields.io/badge/-vue.jsnative-05122A?style=flat&logo=vue.jsnative)
 ![nuxt.js](https://img.shields.io/badge/-nuxt.js-05122A?style=flat&logo=nuxt.js)
 ![git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
 ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
-
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tobi-2008&show_icons=true&theme=radical)
