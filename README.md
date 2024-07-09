@@ -34,6 +34,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobi-2008&layout=compact&theme=radical)
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tobi-2008&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+
 ## 📬 Contact Me
 
 - **Email:** iwayemitaiwo8@gmail.com
