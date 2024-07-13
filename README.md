@@ -27,6 +27,7 @@
 ![git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
 ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tobi-2008&show_icons=true&theme=radical)
