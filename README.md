@@ -24,6 +24,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
 ![vue.js](https://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js)
 ![nuxt.js](https://img.shields.io/badge/-nuxt.js-05122A?style=flat&logo=nuxt.js)
+![c#](https://img.shields.io/badge/-c#-05122A?style=flat&logo=c#)
 ![git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
 ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
