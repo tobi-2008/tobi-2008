@@ -28,6 +28,10 @@
 ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
+![Shell](https://img.shields.io/badge/-shell-05122A?style=flat&logo=shell)
+![Makefile](https://img.shields.io/badge/-Makefile-05122A?style=flat&logo=makefile)
+![Scss](https://img.shields.io/badge/-Scss-05122A?style=flat&logo=scss)
+![Pinia](https://img.shields.io/badge/-Pinia-05122A?style=flat&logo=pinia)
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tobi-2008&show_icons=true&theme=radical)
