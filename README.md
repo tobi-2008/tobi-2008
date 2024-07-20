@@ -32,6 +32,7 @@
 ![Makefile](https://img.shields.io/badge/-Makefile-05122A?style=flat&logo=makefile)
 ![Scss](https://img.shields.io/badge/-Scss-05122A?style=flat&logo=scss)
 ![Pinia](https://img.shields.io/badge/-Pinia-05122A?style=flat&logo=pinia)
+![C-sharp](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tobi-2008&show_icons=true&theme=radical)
