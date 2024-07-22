@@ -1,46 +1,200 @@
-# Iwayemi-Taiwo
+[![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
+<h1 align="center">Hi 👋, Senior Frontend Developer here.</h1>
 
-👋 Hi there! I'm Taiwo Iwayemi, a 15-year-old software developer from Nigeria.
+I'm a frontend developer with a fire in my belly and a knack for getting things done. I lead the charge in crafting amazing user experiences from the ground up. 
+<br>
+Give me a problem, and I'll throw my whole toolbox at it – I'm fluent in both frontend and backend development. 
+This lets me build web apps that are not only stunning to look at but also run like a dream and put users first.
+<br>
+New challenges keep me energized, and I'm always ready to tackle them head-on.
 
-🌟 Passionate about coding, exploring new technologies, and contributing to open-source projects.
+<h1 align="center">💫 My🌟BEST🌟 SKILLS</h1>
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Next.js" />
+      <br>Rust
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Next.js" />
+      <br>Golang
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=actix" width="45" height="45" alt="Next.js" />
+      <br>Actix
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="Next.js" />
+      <br>GCP
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kafka" width="45" height="45" alt="Next.js" />
+      <br>Kafka
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="45" height="45" alt="Next.js" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Next.js" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Next.js" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
+      <br>RESTful API
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
+      <br>Gatsby
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
+      <br>Svelte
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
+      <br>Django
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />
+      <br>D3.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+      <br>MaterialUI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
+      <br>Sass
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=babel" width="45" height="45" alt="babel" />
+      <br>Babel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+      <br>Three.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C#
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C++
+    </td>
+  </tr>
+</table>
+</p>
+<hr>
+<br>
+</div>
 
-🛠️ Skilled in Vue.js, TypeScript
+<h1 align="center">⚡ Github Stats</h1>
 
-🎮 When I'm not coding, you'll find me playing games
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exbucks&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exbucks&theme=algolia) |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=exbucks&theme=vue-dark" alt="exbucks Streak" />                                           |  <img width="450em" align="center" alt="exbucks's Github stats"  src="https://github-readme-stats.vercel.app/api?username=exbucks&show_icons=true&count_private=true&theme=vue-dark" />   |
 
-🙏 I live with a deep respect and fear of GOD.
+<br/>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20know,%20is%20to%20know%20that%20you%20know%20nothing.%20Nothing%20but%20the%20art%20of%20self-ignorance.&author=He%20who%20embraced%20his%20own%20ignorance" /> </p>
 
-
-## 🌐 Connect with me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com//in/iwayemitaiwo/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/iwayemi86)
-
-
-## 🛠️ Technology i have used
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
-![vue.js](https://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js)
-![nuxt.js](https://img.shields.io/badge/-nuxt.js-05122A?style=flat&logo=nuxt.js)
-![git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
-![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=exbucks" /></h1>
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tobi-2008&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobi-2008&layout=compact&theme=radical)
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tobi-2008&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
-
-
-## 📬 Contact Me
-
-- **Email:** iwayemitaiwo8@gmail.com
-
----
 
