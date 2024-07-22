@@ -3,7 +3,7 @@
 
 I'm a frontend developer with a fire in my belly and a knack for getting things done. I lead the charge in crafting amazing user experiences from the ground up. 
 <br>
-Give me a problem, and I'll throw my whole toolbox at it – I'm fluent in both frontend and backend development. 
+Give me a problem, and I'll throw my whole toolbox at it – I'm fluent in frontend development. 
 This lets me build web apps that are not only stunning to look at but also run like a dream and put users first.
 <br>
 New challenges keep me energized, and I'm always ready to tackle them head-on.
