@@ -28,7 +28,7 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
 
 <h1 align="center">⚡ Github Stats</h1>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exbucks&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exbucks&theme=tobi-2008) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exbucks&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tobi-2008&theme=algolia) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=exbucks&theme=vue-dark" alt="" />                                           |  <img width="450em" align="center" alt="exbucks's Github stats"  src="https://github-readme-stats.vercel.app/api?username=tobi-2008&show_icons=true&count_private=true&theme=vue-dark" />   |
 
