@@ -8,7 +8,23 @@ This lets me build web apps that are not only stunning to look at but also run l
 <br>
 New challenges keep me energized, and I'm always ready to tackle them head-on.
 
+## 🌐 Connect with me!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com//in/iwayemitaiwo/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/iwayemi86)
+
+
+## 🛠️ Technology i have used
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
+![vue.js](https://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js)
+![nuxt.js](https://img.shields.io/badge/-nuxt.js-05122A?style=flat&logo=nuxt.js)
+![git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
+![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
 
 <h1 align="center">⚡ Github Stats</h1>
 
