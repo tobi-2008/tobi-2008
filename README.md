@@ -13,7 +13,6 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com//in/iwayemitaiwo/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/iwayemi86)
 
-
 ## 🛠️ Technology i have used
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
@@ -33,6 +32,10 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
 ![Three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express.js)
 ![Pinia](https://img.shields.io/badge/-Pinia-05122A?style=flat&logo=pinia)
+
+   <p align="left">
+          [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/tobi-2008/github-profile-trophy)
+    </p>
 
 <h1 align="center">⚡ Github Stats</h1>
 
