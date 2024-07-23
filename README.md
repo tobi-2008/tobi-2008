@@ -33,9 +33,6 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express.js)
 ![Pinia](https://img.shields.io/badge/-Pinia-05122A?style=flat&logo=pinia)
 
-   <p align="left">
-          [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/tobi-2008/github-profile-trophy)
-    </p>
 <h1 align="center">⚡ Github Stats</h1>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tobi-2008&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tobi-2008&theme=algolia) |
