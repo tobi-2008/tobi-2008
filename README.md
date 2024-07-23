@@ -36,7 +36,6 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
    <p align="left">
           [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/tobi-2008/github-profile-trophy)
     </p>
-
 <h1 align="center">⚡ Github Stats</h1>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tobi-2008&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tobi-2008&theme=algolia) |
