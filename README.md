@@ -21,12 +21,16 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
 ![vue.js](https://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js)
 ![nuxt.js](https://img.shields.io/badge/-nuxt.js-05122A?style=flat&logo=nuxt.js)
+![chart.js](https://img.shields.io/badge/-chart.js-05122A?style=flat&logo=chart.js)
 ![git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
 ![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
+![firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
+![Three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js)
 
 <h1 align="center">⚡ Github Stats</h1>
 
