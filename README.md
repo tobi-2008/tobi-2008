@@ -38,14 +38,14 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tobi-2008&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tobi-2008&theme=algolia) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=tobi-2008&theme=vue-dark" alt="" />                                           |  <img width="450em" align="center" alt="exbucks's Github stats"  src="https://github-readme-stats.vercel.app/api?username=tobi-2008&show_icons=true&count_private=true&theme=vue-dark" />   |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=tobi-2008&theme=vue-dark" alt="" />                                           |  <img width="450em" align="center" alt="taiwo Github stats"  src="https://github-readme-stats.vercel.app/api?username=tobi-2008&show_icons=true&count_private=true&theme=vue-dark" />   |
 
 <br/>
 
  <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=tobi-2008&show_icons=true&locale=en&layout=compact"
-        alt="ryanfavour4"
+        alt="tobi-2008"
       />
 
 
