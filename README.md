@@ -11,7 +11,7 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
 ## 🌐 Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com//in/iwayemitaiwo/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/iwayemi86)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/iwayemi_taiwo_)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://facebook.com/iwayemitaiwo08)
 
 ## 🛠️ Technology i have used
