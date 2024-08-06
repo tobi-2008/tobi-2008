@@ -32,7 +32,7 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
 ![Three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express.js)
-![Pinia](https://img.shields.io/badge/-Pinia-05122A?style=flat&logo=pinia)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 
 <h1 align="center">⚡ Github Stats</h1>
 
