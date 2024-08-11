@@ -9,7 +9,7 @@ This lets me build web apps that are not only stunning to look at but also run l
 New challenges keep me energized, and I'm always ready to tackle them head-on.
 
 ## 🌐 Connect with me!
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iwayemitaiwo.pages.dev/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com//in/iwayemitaiwo/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/iwayemi_taiwo)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://facebook.com/iwayemitaiwo08)
